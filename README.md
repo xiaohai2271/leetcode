@@ -24,10 +24,13 @@ import cn.celess.utils.*;
  * @author : 禾几海
  * @date : $!velocityTool.date("yyyy年MM月dd日 hh:mm")
  * @difficulty : ${question.difficulty}
- * @desc :
+ * @info submissions: ${question.submissions}       accepted: ${question.accepted}      acceptance: $!velocityTool.percentage(${question.accepted},${question.submissions})
  * @see <a href="https://leetcode-cn.com/problems/${question.titleSlug}">${question.frontendQuestionId}.${question.title}</a>
+ * @desc :
  */
 public class $!velocityTool.camelCaseName(${question.titleSlug}) {
+
+    ${question.code}
 
     public static void main(String[] args) {
         Solution solution = new $!velocityTool.camelCaseName(${question.titleSlug})().new Solution();
