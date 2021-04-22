@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/Desktop/leetcode/src/cn/celess/medium/CombinationSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/Desktop/leetcode/src/cn/celess/medium/CombinationSum.java" />
+              <option name="questionId" value="39" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/idea/leetcode/editor/cn/MaximalRectangle.java">
           <value>
             <LeetcodeEditor>
@@ -264,6 +272,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/ClumsyFactorial.java" />
               <option name="questionId" value="1048" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/CombinationSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/CombinationSum.java" />
+              <option name="questionId" value="39" />
             </LeetcodeEditor>
           </value>
         </entry>
