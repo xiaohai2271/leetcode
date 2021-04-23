@@ -16,7 +16,7 @@ IDE :  **[Intellij IDEA](https://www.jetbrains.com/idea/)**
 - CodeFileName : `${question.difficulty}\\$!velocityTool.camelCaseName(${question.titleSlug}) `
 - CodeTemplate : 
 ```
-package cn.celess.medium;
+package cn.celess.${question.difficulty};
 
 import cn.celess.utils.*;
 
