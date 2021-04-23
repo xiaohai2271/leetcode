@@ -347,6 +347,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/JumpGame.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/JumpGame.java" />
+              <option name="questionId" value="55" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/LargestDivisibleSubset.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/LargestDivisibleSubset.java" />
+              <option name="questionId" value="368" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/celess/medium/LetterCombinationsOfAPhoneNumber.java">
           <value>
             <LeetcodeEditor>
