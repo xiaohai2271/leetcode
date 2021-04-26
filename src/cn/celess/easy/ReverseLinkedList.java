@@ -1,7 +1,7 @@
 package cn.celess.easy;
 
 import cn.celess.utils.*;
-import cn.celess.utils.ListNodeUtil.*;
+import cn.celess.utils.ListNodeUtil;
 
 public class ReverseLinkedList {
 

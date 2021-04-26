@@ -2,36 +2,12 @@ package cn.celess.utils;
 
 import java.util.*;
 import java.util.function.Consumer;
-
 /**
  * @author : xiaohai
  * @date : 2021/03/28 16:47
  * @desc :
  */
 public class TreeNodeUtil {
-    public static class TreeNode {
-        public int val;
-        public TreeNode left;
-        public TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-
-        @Override
-        public String toString() {
-            return String.valueOf(val);
-        }
-    }
 
     public static TreeNode createTree(Integer... values) {
         if (values.length == 0) return null;
@@ -42,7 +18,8 @@ public class TreeNodeUtil {
             TreeNode poll = nodeQueue.poll();
             if (poll == null) return root;
             Integer left = values[i];
-            Integer right = values[i + 1];
+            Integer right = null;
+            if (i < values.length - 1) right = values[i + 1];
             if (left != null) {
                 poll.left = new TreeNode(left);
                 nodeQueue.add(poll.left);

@@ -1,6 +1,6 @@
 package cn.celess.utils.test;
 
-import cn.celess.utils.TreeNodeUtil;
+import cn.celess.utils.*;
 
 import java.util.Arrays;
 import java.util.function.Consumer;
@@ -17,9 +17,9 @@ public class TreeNodeUtilTest {
          * *****3***********15
          * ** ***** *****9******20
          */
-        TreeNodeUtil.TreeNode tree = TreeNodeUtil.createTree(7, 3, 15, null, null, 9, 20);
+        TreeNode tree = TreeNodeUtil.createTree(7, 3, 15, null, null, 9, 20);
 
-        Consumer<TreeNodeUtil.TreeNode> print = treeNode -> System.out.print(treeNode + "\t");
+        Consumer<TreeNode> print = treeNode -> System.out.print(treeNode + "\t");
 
 
         System.out.println("TreeNodeUtil.getDepth(tree): " + TreeNodeUtil.getDepth(tree));

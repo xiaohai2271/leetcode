@@ -6,23 +6,8 @@ package cn.celess.utils;
  * @desc :
  */
 public class ListNodeUtil {
-    public static class ListNode {
-        public int val;
-        public ListNode next;
 
-        public ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
-
+    @SafeVarargs
     public static ListNode createNodeList(int... o) {
         if (o.length == 0) return null;
         ListNode node = new ListNode(o[o.length - 1]);

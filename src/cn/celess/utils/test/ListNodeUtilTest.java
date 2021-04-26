@@ -1,6 +1,6 @@
 package cn.celess.utils.test;
 
-import cn.celess.utils.ListNodeUtil.ListNode;
+import cn.celess.utils.ListNode;
 import cn.celess.utils.ListNodeUtil;
 
 /**

@@ -3,8 +3,6 @@ package cn.celess.utils;
 import java.io.PrintStream;
 import java.util.Arrays;
 
-import cn.celess.utils.ListNodeUtil.ListNode;
-
 public class Assert {
     public static final PrintStream out = System.out;
     //    public static final PrintStream err = System.out;// 顺序问题关闭
@@ -18,27 +16,11 @@ public class Assert {
     private Object expect = null;
     private Object actual = null;
     private boolean enablePrint = true;
-    private Object[] args;
 
     @FunctionalInterface
     public interface Function<T> {
         T apply();
     }
-
-//    @FunctionalInterface
-//    public interface OneArgFunction<T> {
-//        T apply(Object arg1);
-//    }
-//
-//    @FunctionalInterface
-//    public interface TwoArgsFunction<T> {
-//        T apply(Object arg1);
-//    }
-//
-//    @FunctionalInterface
-//    public interface ThreeArgsFunction<T> extends Function<T> {
-//        T apply(Object arg1);
-//    }
 
     private Assert() {
         println("=====================================================");
@@ -201,16 +183,6 @@ public class Assert {
 
     private void record() {
         recordCount++;
-    }
-
-    public Assert args(Object[] args) {
-        this.args = args;
-        return as;
-    }
-
-
-    public Assert printArgs() {
-        return print(this.args);
     }
 
     /**
