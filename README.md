@@ -1,11 +1,12 @@
-# 🙌About
+# 🙌简介
+
 leetcode 刷题的代码仓库
 
 IDE :  **[Intellij IDEA](https://www.jetbrains.com/idea/)**,  **[Goland](https://www.jetbrains.com/go/)**
 
 插件 :  [Leetcode-editor(修改版)](https://github.com/xiaohai2271/leetcode-editor)
 
-## 插件配置
+## ⚙ 插件配置
 
 ### java
 
