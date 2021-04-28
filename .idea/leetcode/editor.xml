@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/go-src/easy/RangeSumOfBst.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/easy/RangeSumOfBst.go" />
+              <option name="questionId" value="975" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/hard/MedianOfTwoSortedArrays.go">
           <value>
             <LeetcodeEditor>
