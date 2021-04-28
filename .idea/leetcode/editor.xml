@@ -3,6 +3,30 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/go-src/hard/MedianOfTwoSortedArrays.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/hard/MedianOfTwoSortedArrays.go" />
+              <option name="questionId" value="4" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/LongestSubstringWithoutRepeatingCharacters.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/LongestSubstringWithoutRepeatingCharacters.go" />
+              <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/SumOfSquareNumbers.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/SumOfSquareNumbers.go" />
+              <option name="questionId" value="633" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/idea/leetcode/editor/cn/MaximalRectangle.java">
           <value>
             <LeetcodeEditor>
@@ -120,6 +144,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/cn/celess/easy/PalindromeLinkedList.java" />
               <option name="questionId" value="234" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/easy/RangeSumOfBst.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/easy/RangeSumOfBst.java" />
+              <option name="questionId" value="975" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -264,6 +296,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/cn/celess/hard/T99/recover-binary-search-tree).java" />
               <option name="questionId" value="99" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/CapacityToShipPackagesWithinDDays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/CapacityToShipPackagesWithinDDays.java" />
+              <option name="questionId" value="1056" />
             </LeetcodeEditor>
           </value>
         </entry>
