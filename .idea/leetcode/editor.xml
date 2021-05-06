@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/go-src/easy/DecodeXoredArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/easy/DecodeXoredArray.go" />
+              <option name="questionId" value="1839" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/easy/RangeSumOfBst.go">
           <value>
             <LeetcodeEditor>
@@ -24,6 +32,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/go-src/medium/CombinationSumIi.go" />
               <option name="questionId" value="40" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/DeleteAndEarn.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/DeleteAndEarn.go" />
+              <option name="questionId" value="740" />
             </LeetcodeEditor>
           </value>
         </entry>
