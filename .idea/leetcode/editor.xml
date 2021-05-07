@@ -43,6 +43,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/CountingBits.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/CountingBits.go" />
+              <option name="questionId" value="338" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/medium/DeleteAndEarn.go">
           <value>
             <LeetcodeEditor>
