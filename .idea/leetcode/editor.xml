@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/easy/XorOperationInAnArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/easy/XorOperationInAnArray.go" />
+              <option name="questionId" value="1610" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/hard/MedianOfTwoSortedArrays.go">
           <value>
             <LeetcodeEditor>
