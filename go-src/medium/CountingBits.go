@@ -12,6 +12,20 @@ import (
  * @see <a href="https://leetcode-cn.com/problems/counting-bits">338.比特位计数</a>
  * @desc :
  */
+/**
+ * 动态规划——最低设置位
+ * 定义正整数 xx 的「最低设置位」为 xx 的二进制表示中的最低的 11 所在位。例如，1010 的二进制表示是 1010_{(2)}1010
+ * (2)
+ * ​
+ *  ，其最低设置位为 22，对应的二进制表示是 10_{(2)}10
+ * (2)
+ * ​
+ *  。
+ *
+ * 令 y=x~\&~(x-1)y=x & (x−1)，则 yy 为将 xx 的最低设置位从 11 变成 00 之后的数，显然 0 \le y<x0≤y<x，\textit{bits}[x]=\textit{bits}[y]+1bits[x]=bits[y]+1。因此对任意正整数 xx，都有 \textit{bits}[x]=\textit{bits}[x~\&~(x-1)]+1bits[x]=bits[x & (x−1)]+1。
+ *
+ * 遍历从 11 到 \textit{num}num 的每个正整数 ii，计算 \textit{bits}bits 的值。最终得到的数组 \textit{bits}bits 即为答案。
+ */
 //@lc:start
 func countBits(num int) []int {
 	dp := make([]int, num+1)
