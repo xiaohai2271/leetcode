@@ -75,6 +75,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/StoneGame.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/StoneGame.go" />
+              <option name="questionId" value="909" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/medium/SumOfSquareNumbers.go">
           <value>
             <LeetcodeEditor>
