@@ -27,6 +27,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/hard/FindMinimumTimeToFinishAllJobs.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/hard/FindMinimumTimeToFinishAllJobs.go" />
+              <option name="questionId" value="1825" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/hard/MedianOfTwoSortedArrays.go">
           <value>
             <LeetcodeEditor>
