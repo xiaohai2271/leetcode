@@ -11,6 +11,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/easy/MinimumOperationsToMakeTheArrayIncreasing.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/easy/MinimumOperationsToMakeTheArrayIncreasing.go" />
+              <option name="questionId" value="1938" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/easy/RangeSumOfBst.go">
           <value>
             <LeetcodeEditor>
