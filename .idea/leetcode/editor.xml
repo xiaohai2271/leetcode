@@ -67,6 +67,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/go-src/medium/GasStation.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/go-src/medium/GasStation.go" />
+              <option name="questionId" value="134" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/go-src/medium/LongestSubstringWithoutRepeatingCharacters.go">
           <value>
             <LeetcodeEditor>
