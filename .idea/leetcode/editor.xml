@@ -227,6 +227,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/easy/PrintInOrder.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/easy/PrintInOrder.java" />
+              <option name="questionId" value="1203" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/celess/easy/RangeSumOfBst.java">
           <value>
             <LeetcodeEditor>
@@ -512,6 +520,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/Permutations.java" />
               <option name="questionId" value="46" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/PrintFoobarAlternately.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/PrintFoobarAlternately.java" />
+              <option name="questionId" value="1187" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/celess/medium/PrintZeroEvenOdd.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/cn/celess/medium/PrintZeroEvenOdd.java" />
+              <option name="questionId" value="1216" />
             </LeetcodeEditor>
           </value>
         </entry>
